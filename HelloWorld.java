@@ -5,12 +5,12 @@ class HelloWorld{
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Hello, World! :)");
+        System.out.println("Hello, my fellow World! :)");
 
-        System.out.printf("\nDigite o seu nome: ");
+        System.out.printf("\nDigite o seu nome, meu consagrado: ");
         String nome = scan.nextLine();
 
-        System.out.println("\nSeu nome é: " + nome);
+        System.out.println("\nO seu nome é: " + nome);
 
     }
 
